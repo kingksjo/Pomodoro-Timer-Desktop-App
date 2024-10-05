@@ -63,4 +63,3 @@ This **Pomodoro Timer App** is a helpful tool for managing productivity and impr
 Feel free to fork this repository, enhance the app, and submit a pull request. All contributions and feedback are welcome!
 
 ---
-
